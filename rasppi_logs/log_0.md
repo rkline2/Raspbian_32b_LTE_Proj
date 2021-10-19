@@ -1,4 +1,4 @@
-# Log 0: [S**t Moths](https://youtu.be/OEvjV1jtvl4)
+# Log 0: [](https://youtu.be/OEvjV1jtvl4)
 
 This is the beginning of my journey in writing up "*bare metal*" code on a
 raspberry pi 0w. There's no code in this log, but there are important pieces of
